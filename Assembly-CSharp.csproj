@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Code\AirplaneController.cs" />
+    <Compile Include="Assets\Code\CollisionTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
